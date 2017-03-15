@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C1CDE6</string>
+				<string>#C8CED6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C473DC</string>
+				<string>#D2876D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -258,6 +258,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#FF4400</string>
 			</dict>
 		</dict>
 		<dict>
@@ -294,7 +296,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.genesis_ui</string>
 	<key>author</key>
 	<string>Omar Ponce</string>
 	<key>comment</key>
